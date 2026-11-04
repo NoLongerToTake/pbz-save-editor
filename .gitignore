@@ -21,3 +21,5 @@ build/
 PBZ存档编辑器.exe
 .DS_Store
 Thumbs.db
+
+bin/*.exe
