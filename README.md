@@ -1,11 +1,10 @@
 # PBZ 存档编辑器 1.0 Beta
 
-[下载 Windows x64 免安装版](https://github.com/NoLongerToTake/pbz-save-editor/releases/tag/v1.0.0-beta)。完整解压后双击“PBZ存档编辑器.exe”，无需另装Python或Rust。
+[下载 Windows x64 免安装版](https://github.com/NoLongerToTake/pbz-save-editor/releases/tag/v1.0.0-beta)。完整解压后双击“PBZ存档编辑器.exe”，无需另装Python。
 
 《影之刃零》Windows 离线存档编辑器。支持分类物品编辑、支线任务记录与阶段编辑、奖励预览、自定义路径、自动寻档、备份和恢复。
 
-## 1. 当前功能
-
+## 1. 功能
 - 790种物品、14类分类，包括书籍、书页和剧情物品。
 - 62项支线目录；51项有已观察成功路线，29项可以选择阶段。
 - 完成、完成到阶段、标记失败、回退未接取、仅补发奖励。
@@ -31,17 +30,8 @@ python -m venv .venv
 
 详细操作见[使用说明](docs/1104_使用说明_v2.md)，逐任务支持范围见[支线覆盖](docs/1104_支线覆盖_v2.md)。
 
-## 3. 测试
 
-```powershell
-.\.venv\Scripts\python.exe -B -m unittest discover -s tests -v
-```
-
-测试使用合成数据和临时文件，不需要个人存档。需要原始本地化证据的检查在未提供证据时会跳过。
-
-“不灭侠胆”已在存档副本中验证S1→1、最终奖励TU_19006×1、失败/回退/撤销、保存/恢复和重复补发判断。游戏内载入效果尚未验证。详见[验证范围](docs/VALIDATION.md)。
-
-## 4. 构建解码器与便携包
+## 3. 构建解码器与便携包
 
 如需自行重建解码器，请先安装Rust及适配的Windows编译工具链，然后在仓库根目录执行：
 
@@ -54,7 +44,7 @@ Copy-Item decoder/target/release/pbz_decoder.exe bin/1031_pbz_decoder_v1.exe
 
 `tools/build_catalog.py`、`tools/build_quests.py`是目录维护工具，重建需要另备游戏资产、映射和读取工具，并显式指定`--workspace`；日常运行不需要这些原始证据。
 
-## 5. 仓库内容
+## 4. 仓库内容
 
 ```text
 pbz_editor/       编辑器核心与中文界面
