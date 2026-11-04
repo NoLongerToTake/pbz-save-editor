@@ -1,0 +1,1279 @@
+{
+  "version": 2,
+  "quest_id": "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan.BuMieXiaDan_C",
+  "quest_name": "不灭侠胆",
+  "quest_source": {
+    "asset": "ProjectPBZ/Content/PBZstory/PBZQuest/Simple/BuMieXiaDan.uasset",
+    "defaults": {
+      "QuestType": "News",
+      "FlowLocTextQuestName": {
+        "Key": "QuestRumor_032"
+      },
+      "FlowLocTextQuestDesc": {
+        "Key": "QuestRumor_SubTitle_032"
+      }
+    },
+    "graph": {
+      "QuestStartState": 10,
+      "States": [
+        10,
+        11,
+        12
+      ],
+      "Branches": [
+        8,
+        9
+      ]
+    },
+    "parsed_exports": 13,
+    "unread_bytes": 0,
+    "sha256": "7b0f25bd4666dbc0ec2caf5ac940ab7b7756bac00bd2f9a4a3b58a753f610d1c",
+    "chunk_index": 305220
+  },
+  "stage_order": {
+    "order": [
+      "S1",
+      "1"
+    ],
+    "kind": "native_branch_dirty_time",
+    "dirty_times": {
+      "S1": "2026.10.31-00.57.30",
+      "1": "2026.10.31-01.06.40"
+    },
+    "observations": [
+      {
+        "path": "drafts/1102_pbz_tools_v5/AutoSave0.json",
+        "sha256": "9918cc8803387194d4573076e42abfab13f020f4eb72c6fc0b8014e4aad25b8a",
+        "json_path": "Narrative.NarrativeSavedQuests",
+        "record": {
+          "QuestClass": "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan.BuMieXiaDan_C",
+          "QuestBranches": [
+            {
+              "BranchID": "S1",
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-00.57.30"
+            },
+            {
+              "BranchID": "1",
+              "TasksProgress": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-01.06.40"
+            }
+          ],
+          "QuestCompletion": "EQuestCompletion::QC_Succeded",
+          "CompletedBranches": [
+            "S1",
+            "1"
+          ],
+          "ReachedStateNames": []
+        }
+      },
+      {
+        "path": "drafts/1102_pbz_tools_v5/AutoSave1.json",
+        "sha256": "cbca9939899a9c21998848f80c7f7d2d89896a03aa2e48430990b8f7a8225f14",
+        "json_path": "Narrative.NarrativeSavedQuests",
+        "record": {
+          "QuestClass": "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan.BuMieXiaDan_C",
+          "QuestBranches": [
+            {
+              "BranchID": "S1",
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-00.57.30"
+            },
+            {
+              "BranchID": "1",
+              "TasksProgress": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-01.06.40"
+            }
+          ],
+          "QuestCompletion": "EQuestCompletion::QC_Succeded",
+          "CompletedBranches": [
+            "S1",
+            "1"
+          ],
+          "ReachedStateNames": []
+        }
+      },
+      {
+        "path": "drafts/1102_pbz_tools_v5/AutoSave2.json",
+        "sha256": "2ddf4e2baba3248deb57b1eb985d624a4c3d39d417da81034f1b0c124cf17eed",
+        "json_path": "Narrative.NarrativeSavedQuests",
+        "record": {
+          "QuestClass": "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan.BuMieXiaDan_C",
+          "QuestBranches": [
+            {
+              "BranchID": "S1",
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-00.57.30"
+            },
+            {
+              "BranchID": "1",
+              "TasksProgress": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-01.06.40"
+            }
+          ],
+          "QuestCompletion": "EQuestCompletion::QC_Succeded",
+          "CompletedBranches": [
+            "S1",
+            "1"
+          ],
+          "ReachedStateNames": []
+        }
+      },
+      {
+        "path": "drafts/1102_pbz_tools_v5/EndingReturn_E46EECA546E209A1A5FEA3A2D58B553A.json",
+        "sha256": "4dba9d9d7a754f3c42a5eb90e66574254ab0f85abde2bc6667e45aa717049ad3",
+        "json_path": "Narrative.NarrativeSavedQuests",
+        "record": {
+          "QuestClass": "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan.BuMieXiaDan_C",
+          "QuestBranches": [
+            {
+              "BranchID": "S1",
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-00.57.30"
+            },
+            {
+              "BranchID": "1",
+              "TasksProgress": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-01.06.40"
+            }
+          ],
+          "QuestCompletion": "EQuestCompletion::QC_Succeded",
+          "CompletedBranches": [
+            "S1",
+            "1"
+          ],
+          "ReachedStateNames": []
+        }
+      },
+      {
+        "path": "drafts/1102_pbz_tools_v5/ManualSave1.json",
+        "sha256": "3e38644e7d769de057239a3960e488f0924885db9c5f564bdb802d638b7d8c04",
+        "json_path": "Narrative.NarrativeSavedQuests",
+        "record": {
+          "QuestClass": "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan.BuMieXiaDan_C",
+          "QuestBranches": [
+            {
+              "BranchID": "S1",
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-00.57.30"
+            },
+            {
+              "BranchID": "1",
+              "TasksProgress": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-01.06.40"
+            }
+          ],
+          "QuestCompletion": "EQuestCompletion::QC_Succeded",
+          "CompletedBranches": [
+            "S1",
+            "1"
+          ],
+          "ReachedStateNames": []
+        }
+      },
+      {
+        "path": "drafts/1102_pbz_tools_v5/ManualSave3.json",
+        "sha256": "d6a99ad9dd3e33acd4759642232c112316109aa352e328ce87e8e45ea6e0c36c",
+        "json_path": "Narrative.NarrativeSavedQuests",
+        "record": {
+          "QuestClass": "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan.BuMieXiaDan_C",
+          "QuestBranches": [
+            {
+              "BranchID": "S1",
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-00.57.30"
+            },
+            {
+              "BranchID": "1",
+              "TasksProgress": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-01.06.40"
+            }
+          ],
+          "QuestCompletion": "EQuestCompletion::QC_Succeded",
+          "CompletedBranches": [
+            "S1",
+            "1"
+          ],
+          "ReachedStateNames": []
+        }
+      },
+      {
+        "path": "drafts/1102_pbz_tools_v5/ManualSave4.json",
+        "sha256": "abae41ea423bdb94baa43337956b2ddef218d4c0cfbe632bf1514094526c3df9",
+        "json_path": "Narrative.NarrativeSavedQuests",
+        "record": {
+          "QuestClass": "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan.BuMieXiaDan_C",
+          "QuestBranches": [
+            {
+              "BranchID": "S1",
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-00.57.30"
+            },
+            {
+              "BranchID": "1",
+              "TasksProgress": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "BranchType": "EBranchType::BranchCompleted",
+              "DirtyTime": "2026.10.31-01.06.40"
+            }
+          ],
+          "QuestCompletion": "EQuestCompletion::QC_Succeded",
+          "CompletedBranches": [
+            "S1",
+            "1"
+          ],
+          "ReachedStateNames": []
+        }
+      }
+    ],
+    "graph_limit": "起始状态同时列出S1/1，S1目标状态没有后续分支，不能以线性图或Set排列推导顺序。狼头领流程FinishQuest_C_0(S1)的Out直接连接BeginQuest_C_2(1)，与7份样本中的完成时间一致。",
+    "observation_limit": "7份存档保留同一游玩历史，不代表7条独立路线；仅支持已观察集合S1/1及其S1到1顺序。"
+  },
+  "stage_rows": {
+    "BuMieXiaDan_S1_完成任务": {
+      "Key": "BuMieXiaDan_S1_完成任务",
+      "SortOrder": 34,
+      "QuestName": "BuMieXiaDan",
+      "QuestClass": [
+        "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan",
+        "BuMieXiaDan_C",
+        ""
+      ],
+      "BranchID": "S1",
+      "BranchName": "见过剑阵的领头人后，回到“组织”酒馆与狼头领一叙",
+      "State": "完成任务",
+      "TagList": [
+        "pz.狼统领.完成任务",
+        "zddy.剑阵.完成任务",
+        "pz.狼统领.第一次对话之后"
+      ],
+      "BlockTags": [
+        "pz.狼统领.完成任务"
+      ],
+      "NodeGuidList": [],
+      "FlowAsset": [
+        "/Game/PBZContent/Blueprint/FlowGraph/QuestFlowGraph/PangZhen/BPF_LangTouLing_01",
+        "BPF_LangTouLing_01",
+        ""
+      ],
+      "FlowAssetList": [],
+      "GetItemIDAndCounts": {
+        "I_06006": 1
+      },
+      "LootItemIDs": [],
+      "WeaponIDs": [],
+      "bFinishGroupSuccess": true
+    },
+    "BuMieXiaDan_S1_开启任务": {
+      "Key": "BuMieXiaDan_S1_开启任务",
+      "SortOrder": 33,
+      "QuestName": "BuMieXiaDan",
+      "QuestClass": [
+        "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan",
+        "BuMieXiaDan_C",
+        ""
+      ],
+      "BranchID": "S1",
+      "BranchName": "见过剑阵的领头人后，回到“组织”酒馆与狼头领一叙",
+      "State": "开启任务",
+      "TagList": [
+        "pz.狼统领.第一次对话之后"
+      ],
+      "BlockTags": [
+        "zddy.剑阵.完成任务",
+        "pz.狼统领.第一次对话之后"
+      ],
+      "NodeGuidList": [],
+      "FlowAsset": [
+        "/Game/PBZContent/Blueprint/FlowGraph/QuestFlowGraph/PangZhen/BPF_LangTouLing_01",
+        "BPF_LangTouLing_01",
+        ""
+      ],
+      "FlowAssetList": [],
+      "GetItemIDAndCounts": {},
+      "LootItemIDs": [],
+      "WeaponIDs": [],
+      "bFinishGroupSuccess": true
+    },
+    "BuMieXiaDan_1_完成任务": {
+      "Key": "BuMieXiaDan_1_完成任务",
+      "SortOrder": 32,
+      "QuestName": "BuMieXiaDan",
+      "QuestClass": [
+        "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan",
+        "BuMieXiaDan_C",
+        ""
+      ],
+      "BranchID": "1",
+      "BranchName": "助尚在挣扎的正道高手解脱，铭记他们不灭的“侠胆”",
+      "State": "完成任务",
+      "TagList": [
+        "pz.不灭侠胆.任务进度1",
+        "pz.不灭侠胆.任务进度2",
+        "pz.不灭侠胆.任务进度3",
+        "pz.不灭侠胆.任务进度4",
+        "pz.不灭侠胆.任务进度5",
+        "pz.不灭侠胆.任务进度6"
+      ],
+      "BlockTags": [],
+      "NodeGuidList": [],
+      "FlowAsset": [
+        "None",
+        "None",
+        ""
+      ],
+      "FlowAssetList": [],
+      "GetItemIDAndCounts": {},
+      "LootItemIDs": [],
+      "WeaponIDs": [],
+      "bFinishGroupSuccess": true
+    },
+    "BuMieXiaDan_1_开启任务": {
+      "Key": "BuMieXiaDan_1_开启任务",
+      "SortOrder": 31,
+      "QuestName": "BuMieXiaDan",
+      "QuestClass": [
+        "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan",
+        "BuMieXiaDan_C",
+        ""
+      ],
+      "BranchID": "1",
+      "BranchName": "助尚在挣扎的正道高手解脱，铭记他们不灭的“侠胆”",
+      "State": "开启任务",
+      "TagList": [
+        "pz.狼统领.完成任务",
+        "zddy.剑阵.完成任务",
+        "pz.狼统领.第一次对话之后"
+      ],
+      "BlockTags": [
+        "pz.狼统领.第一次对话之后",
+        "pz.狼统领.完成任务"
+      ],
+      "NodeGuidList": [],
+      "FlowAsset": [
+        "/Game/PBZContent/Blueprint/FlowGraph/QuestFlowGraph/PangZhen/BPF_LangTouLing_01",
+        "BPF_LangTouLing_01",
+        ""
+      ],
+      "FlowAssetList": [],
+      "GetItemIDAndCounts": {
+        "I_06006": 1
+      },
+      "LootItemIDs": [],
+      "WeaponIDs": [],
+      "bFinishGroupSuccess": true
+    }
+  },
+  "table_sources": {
+    "stages": {
+      "asset": "ProjectPBZ/Content/PBZContent/Blueprint/FlowGraph/DebugUI/FlowQuest/FlowQuestBranchStateDataTable.uasset",
+      "sha256": "5605fd0b80dff0079ceddcacb941f30c840eb71bef0c78a2339cef72bd1100d1",
+      "rows": 490,
+      "unread_bytes": 0
+    },
+    "loot": {
+      "asset": "ProjectPBZ/Content/PBZContent/DataTable/DT_LevelLootDataTable.uasset",
+      "sha256": "8afd310c1deef60dd3eae7418d40f17c4990ea2d26f554c68652df1dabe30460",
+      "rows": 1980,
+      "unread_bytes": 0
+    }
+  },
+  "wolf_leader_flow": {
+    "asset": "ProjectPBZ/Content/PBZContent/Blueprint/FlowGraph/QuestFlowGraph/PangZhen/BPF_LangTouLing_01.uasset",
+    "sha256": "b356900d68fc7506fcb73ee1f7c593f750a8251d153d4e0077ddc2a3ca8b03ce",
+    "chunk_index": 27679,
+    "begin_1": {
+      "export_index": 2,
+      "object_name": "BeginQuest_C_2",
+      "properties": {
+        "Quest": -41,
+        "Optional Start from ID": "1",
+        "GraphNode": 0,
+        "NodeGuid": "a4ae6d1aabd37745aba2730c9db7d6fb",
+        "Connections": {
+          "removed_keys": [],
+          "entries": {
+            "Out": {
+              "NodeGuid": "8c1704ddf57ea74fb25cd04245a1ea86",
+              "PinName": "In"
+            }
+          }
+        },
+        "EditorInputConnectionNodesGuids": []
+      },
+      "property_bytes": 86,
+      "serialized_tail_hex": "01000000cb9dd5983434e840b8cfda5d296a924700000000",
+      "uninterpreted_tail_bytes": 24
+    },
+    "finish_s1": {
+      "export_index": 8,
+      "object_name": "FinishQuest_C_0",
+      "properties": {
+        "Quest": -41,
+        "Optional Start from ID": "S1",
+        "GraphNode": 0,
+        "NodeGuid": "cb9dd5983434e840b8cfda5d296a9247",
+        "Connections": {
+          "removed_keys": [],
+          "entries": {
+            "Out": {
+              "NodeGuid": "a4ae6d1aabd37745aba2730c9db7d6fb",
+              "PinName": "In"
+            }
+          }
+        },
+        "EditorInputConnectionNodesGuids": []
+      },
+      "property_bytes": 86,
+      "serialized_tail_hex": "0100000076f2ecb165b9e34887742bf33d5894d000000000",
+      "uninterpreted_tail_bytes": 24
+    },
+    "task_item": {
+      "export_index": 18,
+      "object_name": "GetItems_C_0",
+      "properties": {
+        "ItemIDAndCount": {
+          "removed_keys": [
+            "None"
+          ],
+          "entries": {
+            "I_06006": 1
+          }
+        },
+        "GraphNode": 0,
+        "NodeGuid": "76f2ecb165b9e34887742bf33d5894d0",
+        "Connections": {
+          "removed_keys": [],
+          "entries": {
+            "获得物品UI关闭后": {
+              "NodeGuid": "cb9dd5983434e840b8cfda5d296a9247",
+              "PinName": "In"
+            }
+          }
+        },
+        "EditorInputConnectionNodesGuids": []
+      },
+      "property_bytes": 102,
+      "serialized_tail_hex": "01000000efab281a30fe674c91a90948ddc211fd00000000",
+      "uninterpreted_tail_bytes": 24
+    }
+  },
+  "reward": {
+    "item_id": "TU_19006",
+    "quantity": 1,
+    "stage_id": "1",
+    "category": "quest_final",
+    "certainty": "verified",
+    "association": "原生阶段1有6项HasTag任务、bNeedCount=true、CompleteTime=4；6个对应记忆流程的IsTagExist_C_13检查同一组任务进度标签，MatchCount=3，其True直接连接GetItems_C_5发放TU_19006×1，之后SetTag_C_23写入当前任务进度。该条件链关联第4项进度触发成功，不借用Boss掉落或物品同名推断。",
+    "loot_row_name": "PangZhen.TU_19006",
+    "loot_row": {
+      "LootItemID": "PangZhen.TU_19006",
+      "EntryDatas": [
+        {
+          "EnemyLevel": null,
+          "LootDusts": [],
+          "LootItems": [
+            {
+              "ItemId": "TU_19006",
+              "MinAmount": 1,
+              "MaxAmount": 1,
+              "Probability": 1.0
+            }
+          ],
+          "Weapons": [],
+          "Medicines": [],
+          "Accessories": [],
+          "ItemLevel": "S"
+        }
+      ]
+    },
+    "flow_evidence": [
+      {
+        "asset": "ProjectPBZ/Content/PBZContent/Blueprint/FlowGraph/QuestFlowGraph/PangZhen/BPF_BuMieXiaDan_Memory_1.uasset",
+        "sha256": "c4ee08598e6214975ef1132a5af9a36b6e68206c97a61fafcdf6f4be533c2949",
+        "chunk_index": 298136,
+        "reward": {
+          "export_index": 15,
+          "object_name": "GetItems_C_5",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [
+                "None"
+              ],
+              "entries": {
+                "TU_19006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "6abd59ca7fb63c43bca1837d5197a4b8",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "获得物品UI关闭后": {
+                  "NodeGuid": "57038d642a6c324d98ed9a4951b1c8d1",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 102,
+          "serialized_tail_hex": "0100000014650b3c8a35ea46805354b32a0f5dee00000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "consume_task_item": {
+          "export_index": 16,
+          "object_name": "GiveItems_C_4",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [],
+              "entries": {
+                "I_06006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "fc1ee4d25d002e42b5c303630286bda4",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "af2a77fc7f3474498d0da98b8d99dfad",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 94,
+          "serialized_tail_hex": "0100000057038d642a6c324d98ed9a4951b1c8d100000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "condition": {
+          "export_index": 20,
+          "object_name": "IsTagExist_C_13",
+          "properties": {
+            "Tags": [
+              "pz.不灭侠胆.任务进度1",
+              "pz.不灭侠胆.任务进度2",
+              "pz.不灭侠胆.任务进度3",
+              "pz.不灭侠胆.任务进度4",
+              "pz.不灭侠胆.任务进度5",
+              "pz.不灭侠胆.任务进度6"
+            ],
+            "ExactMatch": null,
+            "MatchCount": 3,
+            "GraphNode": 0,
+            "NodeGuid": "14650b3c8a35ea46805354b32a0f5dee",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "True": {
+                  "NodeGuid": "6abd59ca7fb63c43bca1837d5197a4b8",
+                  "PinName": "In"
+                },
+                "False": {
+                  "NodeGuid": "65f895b6e0a2654b8873a0b59cb38d9f",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 165,
+          "serialized_tail_hex": "01000000248dbd27ee682640899ebfb6105501aa00000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "progress": {
+          "export_index": 33,
+          "object_name": "SetTag_C_23",
+          "properties": {
+            "AddTags": [
+              "pz.不灭侠胆.任务进度1"
+            ],
+            "GraphNode": 0,
+            "NodeGuid": "57038d642a6c324d98ed9a4951b1c8d1",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "fc1ee4d25d002e42b5c303630286bda4",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 86,
+          "serialized_tail_hex": "010000006abd59ca7fb63c43bca1837d5197a4b800000000",
+          "uninterpreted_tail_bytes": 24
+        }
+      },
+      {
+        "asset": "ProjectPBZ/Content/PBZContent/Blueprint/FlowGraph/QuestFlowGraph/PangZhen/BPF_BuMieXiaDan_Memory_2.uasset",
+        "sha256": "dd29d68f46b14f8522a5ce7667fd10b3f16b2044c3e081c2b34e197ca914f790",
+        "chunk_index": 67661,
+        "reward": {
+          "export_index": 15,
+          "object_name": "GetItems_C_5",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [
+                "None"
+              ],
+              "entries": {
+                "TU_19006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "e900f0b86b074b459f97aae61d0ec6a4",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "获得物品UI关闭后": {
+                  "NodeGuid": "d6e3283d664bd442900eb150a078ff19",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 102,
+          "serialized_tail_hex": "0100000056e2b6acf7c5504daad5a9e7c8c50b9b00000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "consume_task_item": {
+          "export_index": 16,
+          "object_name": "GiveItems_C_4",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [],
+              "entries": {
+                "I_06006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "65cad3ba1c706d4bb9a59144678ef105",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "28337eeef446bd45a922e55b7804389c",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 94,
+          "serialized_tail_hex": "01000000d6e3283d664bd442900eb150a078ff1900000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "condition": {
+          "export_index": 21,
+          "object_name": "IsTagExist_C_13",
+          "properties": {
+            "Tags": [
+              "pz.不灭侠胆.任务进度1",
+              "pz.不灭侠胆.任务进度2",
+              "pz.不灭侠胆.任务进度3",
+              "pz.不灭侠胆.任务进度4",
+              "pz.不灭侠胆.任务进度5",
+              "pz.不灭侠胆.任务进度6"
+            ],
+            "ExactMatch": null,
+            "MatchCount": 3,
+            "GraphNode": 0,
+            "NodeGuid": "56e2b6acf7c5504daad5a9e7c8c50b9b",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "True": {
+                  "NodeGuid": "e900f0b86b074b459f97aae61d0ec6a4",
+                  "PinName": "In"
+                },
+                "False": {
+                  "NodeGuid": "2fa5f4ef6829f546859b498211ad2b90",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 165,
+          "serialized_tail_hex": "010000005b8728f91f2c73459e2d51c5ae2ee65300000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "progress": {
+          "export_index": 33,
+          "object_name": "SetTag_C_23",
+          "properties": {
+            "AddTags": [
+              "pz.不灭侠胆.任务进度2"
+            ],
+            "GraphNode": 0,
+            "NodeGuid": "d6e3283d664bd442900eb150a078ff19",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "65cad3ba1c706d4bb9a59144678ef105",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 86,
+          "serialized_tail_hex": "01000000e900f0b86b074b459f97aae61d0ec6a400000000",
+          "uninterpreted_tail_bytes": 24
+        }
+      },
+      {
+        "asset": "ProjectPBZ/Content/PBZContent/Blueprint/FlowGraph/QuestFlowGraph/PangZhen/BPF_BuMieXiaDan_Memory_3.uasset",
+        "sha256": "00e8f205dce230b408a1f9a841b4a9050904a7f22b0a96411f4e0089207e90ef",
+        "chunk_index": 60992,
+        "reward": {
+          "export_index": 15,
+          "object_name": "GetItems_C_5",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [
+                "None"
+              ],
+              "entries": {
+                "TU_19006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "fc37aadd0bff60499be07e4e7fe9a0fb",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "获得物品UI关闭后": {
+                  "NodeGuid": "110f2870e86b7d4494dabe5e7371c074",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 102,
+          "serialized_tail_hex": "01000000dd680e96066b7d4b969e6b040c7c7b5300000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "consume_task_item": {
+          "export_index": 16,
+          "object_name": "GiveItems_C_4",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [],
+              "entries": {
+                "I_06006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "5c677bc456b64a4db609e953e4aad5fc",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "3ae65105284fe545a84b3b210f394f19",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 94,
+          "serialized_tail_hex": "01000000110f2870e86b7d4494dabe5e7371c07400000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "condition": {
+          "export_index": 21,
+          "object_name": "IsTagExist_C_13",
+          "properties": {
+            "Tags": [
+              "pz.不灭侠胆.任务进度1",
+              "pz.不灭侠胆.任务进度2",
+              "pz.不灭侠胆.任务进度3",
+              "pz.不灭侠胆.任务进度4",
+              "pz.不灭侠胆.任务进度5",
+              "pz.不灭侠胆.任务进度6"
+            ],
+            "ExactMatch": null,
+            "MatchCount": 3,
+            "GraphNode": 0,
+            "NodeGuid": "dd680e96066b7d4b969e6b040c7c7b53",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "True": {
+                  "NodeGuid": "fc37aadd0bff60499be07e4e7fe9a0fb",
+                  "PinName": "In"
+                },
+                "False": {
+                  "NodeGuid": "7354f068f4b7874897c8c16036394b60",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 165,
+          "serialized_tail_hex": "01000000209de242024ffa46afc4531e49ec44c400000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "progress": {
+          "export_index": 33,
+          "object_name": "SetTag_C_23",
+          "properties": {
+            "AddTags": [
+              "pz.不灭侠胆.任务进度3"
+            ],
+            "GraphNode": 0,
+            "NodeGuid": "110f2870e86b7d4494dabe5e7371c074",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "5c677bc456b64a4db609e953e4aad5fc",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 86,
+          "serialized_tail_hex": "01000000fc37aadd0bff60499be07e4e7fe9a0fb00000000",
+          "uninterpreted_tail_bytes": 24
+        }
+      },
+      {
+        "asset": "ProjectPBZ/Content/PBZContent/Blueprint/FlowGraph/QuestFlowGraph/PangZhen/BPF_BuMieXiaDan_Memory_4.uasset",
+        "sha256": "522aa9322904af85cdaf01477162a6d21986bcf2f887ac8e0390ff45846756da",
+        "chunk_index": 293033,
+        "reward": {
+          "export_index": 15,
+          "object_name": "GetItems_C_5",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [
+                "None"
+              ],
+              "entries": {
+                "TU_19006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "30a08edec2da57439c894453edb8bd87",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "获得物品UI关闭后": {
+                  "NodeGuid": "d95c1dde66e2ed4795537d4e7759e4eb",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 102,
+          "serialized_tail_hex": "010000003bcaf471e9762a409c43ee19ad1b957300000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "consume_task_item": {
+          "export_index": 16,
+          "object_name": "GiveItems_C_4",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [],
+              "entries": {
+                "I_06006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "b4ec8e402413b74786c1ba8c6903de44",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "9822d0a7d361a946a3a57940ac6196b0",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 94,
+          "serialized_tail_hex": "01000000d95c1dde66e2ed4795537d4e7759e4eb00000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "condition": {
+          "export_index": 21,
+          "object_name": "IsTagExist_C_13",
+          "properties": {
+            "Tags": [
+              "pz.不灭侠胆.任务进度1",
+              "pz.不灭侠胆.任务进度2",
+              "pz.不灭侠胆.任务进度3",
+              "pz.不灭侠胆.任务进度4",
+              "pz.不灭侠胆.任务进度5",
+              "pz.不灭侠胆.任务进度6"
+            ],
+            "ExactMatch": null,
+            "MatchCount": 3,
+            "GraphNode": 0,
+            "NodeGuid": "3bcaf471e9762a409c43ee19ad1b9573",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "True": {
+                  "NodeGuid": "30a08edec2da57439c894453edb8bd87",
+                  "PinName": "In"
+                },
+                "False": {
+                  "NodeGuid": "e9b136267fc54a419c089f34041fa01a",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 165,
+          "serialized_tail_hex": "01000000d0ef27ba0b63834fa09cb91236aea85700000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "progress": {
+          "export_index": 33,
+          "object_name": "SetTag_C_23",
+          "properties": {
+            "AddTags": [
+              "pz.不灭侠胆.任务进度4"
+            ],
+            "GraphNode": 0,
+            "NodeGuid": "d95c1dde66e2ed4795537d4e7759e4eb",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "b4ec8e402413b74786c1ba8c6903de44",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 86,
+          "serialized_tail_hex": "0100000030a08edec2da57439c894453edb8bd8700000000",
+          "uninterpreted_tail_bytes": 24
+        }
+      },
+      {
+        "asset": "ProjectPBZ/Content/PBZContent/Blueprint/FlowGraph/QuestFlowGraph/PangZhen/BPF_BuMieXiaDan_Memory_5.uasset",
+        "sha256": "0943cd6d83cc46ef0478c7beabf071bb690f2c7a97e06427bbdcbf87b93d3570",
+        "chunk_index": 242822,
+        "reward": {
+          "export_index": 15,
+          "object_name": "GetItems_C_5",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [
+                "None"
+              ],
+              "entries": {
+                "TU_19006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "4a188f7b9d09a94a9006651fea6390b1",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "获得物品UI关闭后": {
+                  "NodeGuid": "863bc32ccba50c4fa1e51f9a93bbb81a",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 102,
+          "serialized_tail_hex": "01000000294fccf28861b849a8ceb7e5c4ee34ec00000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "consume_task_item": {
+          "export_index": 16,
+          "object_name": "GiveItems_C_4",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [],
+              "entries": {
+                "I_06006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "5352a756737a59438bd4337dc362d257",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "5ae34569d8026a4684dac0330af34cb8",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 94,
+          "serialized_tail_hex": "01000000863bc32ccba50c4fa1e51f9a93bbb81a00000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "condition": {
+          "export_index": 21,
+          "object_name": "IsTagExist_C_13",
+          "properties": {
+            "Tags": [
+              "pz.不灭侠胆.任务进度1",
+              "pz.不灭侠胆.任务进度2",
+              "pz.不灭侠胆.任务进度3",
+              "pz.不灭侠胆.任务进度4",
+              "pz.不灭侠胆.任务进度5",
+              "pz.不灭侠胆.任务进度6"
+            ],
+            "ExactMatch": null,
+            "MatchCount": 3,
+            "GraphNode": 0,
+            "NodeGuid": "294fccf28861b849a8ceb7e5c4ee34ec",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "True": {
+                  "NodeGuid": "4a188f7b9d09a94a9006651fea6390b1",
+                  "PinName": "In"
+                },
+                "False": {
+                  "NodeGuid": "69627cbe2d3ecf469c3836134f796b9d",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 165,
+          "serialized_tail_hex": "01000000b027542131ee5940b2b9acdab72396f500000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "progress": {
+          "export_index": 33,
+          "object_name": "SetTag_C_23",
+          "properties": {
+            "AddTags": [
+              "pz.不灭侠胆.任务进度5"
+            ],
+            "GraphNode": 0,
+            "NodeGuid": "863bc32ccba50c4fa1e51f9a93bbb81a",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "5352a756737a59438bd4337dc362d257",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 86,
+          "serialized_tail_hex": "010000004a188f7b9d09a94a9006651fea6390b100000000",
+          "uninterpreted_tail_bytes": 24
+        }
+      },
+      {
+        "asset": "ProjectPBZ/Content/PBZContent/Blueprint/FlowGraph/QuestFlowGraph/PangZhen/BPF_BuMieXiaDan_Memory_6.uasset",
+        "sha256": "6edd903101fd6e2bfb3c2b2832a0e8a1b5d2acf0361810d614a8ae80ebca4598",
+        "chunk_index": 139652,
+        "reward": {
+          "export_index": 15,
+          "object_name": "GetItems_C_5",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [
+                "None"
+              ],
+              "entries": {
+                "TU_19006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "a784f79f7a3c054cbbfa401d00b56022",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "获得物品UI关闭后": {
+                  "NodeGuid": "fa765c42993b6642927801e69feca697",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 102,
+          "serialized_tail_hex": "01000000a4a9832382bab044b92ea20d57f1728800000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "consume_task_item": {
+          "export_index": 16,
+          "object_name": "GiveItems_C_4",
+          "properties": {
+            "ItemIDAndCount": {
+              "removed_keys": [],
+              "entries": {
+                "I_06006": 1
+              }
+            },
+            "GraphNode": 0,
+            "NodeGuid": "4317f6ddc9f93f45a673d4a94d1ce493",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "37497cb3d929cb43b0b6a64f17f904bd",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 94,
+          "serialized_tail_hex": "01000000fa765c42993b6642927801e69feca69700000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "condition": {
+          "export_index": 21,
+          "object_name": "IsTagExist_C_13",
+          "properties": {
+            "Tags": [
+              "pz.不灭侠胆.任务进度1",
+              "pz.不灭侠胆.任务进度2",
+              "pz.不灭侠胆.任务进度3",
+              "pz.不灭侠胆.任务进度4",
+              "pz.不灭侠胆.任务进度5",
+              "pz.不灭侠胆.任务进度6"
+            ],
+            "ExactMatch": null,
+            "MatchCount": 3,
+            "GraphNode": 0,
+            "NodeGuid": "a4a9832382bab044b92ea20d57f17288",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "True": {
+                  "NodeGuid": "a784f79f7a3c054cbbfa401d00b56022",
+                  "PinName": "In"
+                },
+                "False": {
+                  "NodeGuid": "2a0e42d3067cad4c9db5cf63b5d1e6d7",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 165,
+          "serialized_tail_hex": "01000000071cda98c26ee045bc961195bed093e600000000",
+          "uninterpreted_tail_bytes": 24
+        },
+        "progress": {
+          "export_index": 33,
+          "object_name": "SetTag_C_23",
+          "properties": {
+            "AddTags": [
+              "pz.不灭侠胆.任务进度6"
+            ],
+            "GraphNode": 0,
+            "NodeGuid": "fa765c42993b6642927801e69feca697",
+            "Connections": {
+              "removed_keys": [],
+              "entries": {
+                "Out": {
+                  "NodeGuid": "4317f6ddc9f93f45a673d4a94d1ce493",
+                  "PinName": "In"
+                }
+              }
+            },
+            "EditorInputConnectionNodesGuids": []
+          },
+          "property_bytes": 86,
+          "serialized_tail_hex": "01000000a784f79f7a3c054cbbfa401d00b5602200000000",
+          "uninterpreted_tail_bytes": 24
+        }
+      }
+    ],
+    "task_item_exclusion": "I_06006为S1发放的破碎的侠胆，阶段表与狼头领GetItems_C_0相符；各记忆流程GiveItems_C_4会消耗该道具，不将其作为最终奖励补发。",
+    "exclusions": "F_06041至F_06046是各记忆流程沿途物品，不据此列成最终奖励；最终奖励只登记TU_19006×1。"
+  },
+  "reader_scope": "只读原生资产块和既有JSON。Flow节点按usmap解析选定属性，Guid按16字节读取，Map保留移除键及新增项；每个节点属性后的24字节尾部原样保留，未解释，不声称完整解析Flow资产或运行过游戏逻辑。",
+  "validation_boundary": "本分工不启动GUI、不控制电脑、不写正式存档；主代理已报告窗口完成并保存S1/1且保留六项TasksProgress，新奖励目录的GUI预览与领取行为仍须由主代理验证。",
+  "asset_index": {
+    "path": "drafts/1101_pbz_tools_v3/1101_资产索引_v1.json",
+    "sha256": "c9549973bc575f525bdfdebec7dda96bdd6a9a242a8d1a30e234cd78912059b4"
+  },
+  "schema": {
+    "path": "drafts/1031_pbz_tools_v2/usmap-package/ProjectPBZ-5.7.4-301524-full.usmap",
+    "sha256": "c7fb911bc24ec7a3c77fbf1cbe62c57bec1dcc8b621ea305ac9e50b4d9fb6651"
+  }
+}
